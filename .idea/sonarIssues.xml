@@ -3,7 +3,12 @@
   <component name="issues">
     <option name="index">
       <map>
-        <entry key="$PROJECT_DIR$/.gitignore">
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/.idea/sonarIssues.xml">
           <value>
             <set />
           </value>
@@ -13,12 +18,7 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/Rejestracja.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/pl/gruchot/Rejestracja.java">
+        <entry key="$PROJECT_DIR$/TestowaKolejnaKlasa.java">
           <value>
             <set />
           </value>

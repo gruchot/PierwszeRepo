@@ -1,5 +1,3 @@
-public class Logowanie{
-    public static void main(String[] args) {
-        System.out.println("blabla");
-    }
+public class logowanie{
+    private int i = 10;
 }
